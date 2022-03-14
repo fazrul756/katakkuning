@@ -1,2 +1,2 @@
-# katakkuning.io
+# katakkuning
 adayofridingabicycle
